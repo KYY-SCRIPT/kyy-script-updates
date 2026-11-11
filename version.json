@@ -1,14 +1,14 @@
 {
   "product": "KYY_SCRIPT_PRO",
-  "version": "2.1.7",
-  "versionCode": 217,
+  "version": "2.1.8",
+  "versionCode": 218,
   "mandatory": false,
-  "title": "Pembaruan KYY SCRIPT PRO 2.1.7",
+  "title": "Pembaruan KYY SCRIPT PRO 2.1.8",
   "releaseNotes": [
     "Pembaruan KYY SCRIPT PRO",
     "Perbaikan dan penyempurnaan aplikasi"
   ],
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v2.1.7/KYY_SCRIPT_PRO_2.1.7.apk",
-  "sha256": "03db617b19fb9467e8ea3bda257c4a6893b9549b5f24b5ccf90d55196f8f3127",
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v2.1.8/KYY_SCRIPT_PRO_2.1.8.apk",
+  "sha256": "c8e8b5a238d3f143d8011dbfca22b1766d3761fd857842372a4527e29c1255b7",
   "minSupportedVersionCode": 200
 }
