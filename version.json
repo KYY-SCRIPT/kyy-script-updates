@@ -1,14 +1,15 @@
 {
   "product": "KYY_SCRIPT_PRO",
-  "version": "4.0.0",
-  "versionCode": 228,
+  "version": "4.0.1",
+  "versionCode": 229,
   "mandatory": false,
-  "title": "Pembaruan KYY SCRIPT PRO 4.0.0",
+  "title": "Pembaruan KYY SCRIPT PRO 4.0.1",
   "releaseNotes": [
     "Pembaruan KYY SCRIPT PRO",
-    "Perbaikan dan penyempurnaan aplikasi"
+    "Mempertahankan package ID dan sertifikat signing resmi",
+    "Penyempurnaan Stage 7 Mod Builder"
   ],
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.0/KYY_SCRIPT_PRO_4.0.0.apk",
-  "sha256": "8b75db8a334793c53c132b6113b663958c41a3b767f3fe64aca163f1a6c4aa2b",
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.1/KYY_SCRIPT_PRO_4.0.1.apk",
+  "sha256": "8031277f3c3418a7d2be7f4af517050144cda084e0306f3fdd1b09bb8ea8a445",
   "minSupportedVersionCode": 200
 }
