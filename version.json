@@ -1,16 +1,18 @@
 {
   "product": "KYY_SCRIPT_PRO",
-  "version": "4.0.4",
-  "versionCode": 232,
+  "version": "4.0.5",
+  "versionCode": 233,
   "mandatory": false,
-  "title": "Pembaruan KYY SCRIPT PRO 4.0.4",
+  "title": "Pembaruan KYY SCRIPT PRO 4.0.5",
   "releaseNotes": [
-    "Fitur Bangunan Siap Pakai",
-    "Katalog 52 bangunan terintegrasi",
-    "Validasi paket bangunan dan metadata lokasi",
+    "Menghapus modul Building yang tidak berfungsi beserta model dan katalog asetnya",
+    "Mempertahankan konversi kendaraan dan AWC",
+    "Mempertahankan Graphic & Cuaca PS4",
+    "Menambahkan ALAT CONVERT Android tanpa Termux untuk resource RSC7 dan batch ZIP",
+    "Mempertahankan RPF Extractor, RPF Builder, YTD Extractor dan OTD Builder",
     "Mempertahankan package ID dan sertifikat signing resmi"
   ],
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.4/KYY_SCRIPT_PRO_4.0.4.apk",
-  "sha256": "2909b4e50ed5dc3fb67086f872da1b44481f669f451b8e0ce247d3faf147a9ea",
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.5/KYY_SCRIPT_PRO_4.0.5.apk",
+  "sha256": "f8eb0718184451a0da34f73c9ad57d2e9a8fada44b95ba6a85e6b6b0478d0614",
   "minSupportedVersionCode": 200
 }
