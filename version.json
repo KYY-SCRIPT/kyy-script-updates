@@ -1,15 +1,16 @@
 {
   "product": "KYY_SCRIPT_PRO",
-  "version": "4.0.1",
-  "versionCode": 229,
+  "version": "4.0.2",
+  "versionCode": 230,
   "mandatory": false,
-  "title": "Pembaruan KYY SCRIPT PRO 4.0.1",
+  "title": "Pembaruan KYY SCRIPT PRO 4.0.2",
   "releaseNotes": [
-    "Pembaruan KYY SCRIPT PRO",
-    "Mempertahankan package ID dan sertifikat signing resmi",
-    "Penyempurnaan Stage 7 Mod Builder"
+    "Fitur Bangunan Siap Pakai",
+    "Katalog 52 bangunan terintegrasi",
+    "Validasi paket bangunan dan metadata lokasi",
+    "Mempertahankan package ID dan sertifikat signing resmi"
   ],
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.1/KYY_SCRIPT_PRO_4.0.1.apk",
-  "sha256": "8031277f3c3418a7d2be7f4af517050144cda084e0306f3fdd1b09bb8ea8a445",
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.2/KYY_SCRIPT_PRO_4.0.2.apk",
+  "sha256": "535a7c2bec4eb1220284ced1a497a45a311559e655d0a3befd82a302c70bb064",
   "minSupportedVersionCode": 200
 }
