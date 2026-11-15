@@ -1,9 +1,9 @@
 {
   "product": "KYY_SCRIPT_PRO",
-  "version": "4.0.7",
-  "versionCode": 235,
+  "version": "4.1.0",
+  "versionCode": 236,
   "mandatory": false,
-  "title": "Pembaruan KYY SCRIPT PRO 4.0.7",
+  "title": "Pembaruan KYY SCRIPT PRO 4.1.0",
   "releaseNotes": [
     "Menghapus modul Building yang tidak berfungsi beserta model dan katalog asetnya",
     "Mempertahankan konversi kendaraan dan AWC",
@@ -12,7 +12,7 @@
     "Mempertahankan RPF Extractor, RPF Builder, YTD Extractor dan OTD Builder",
     "Mempertahankan package ID dan sertifikat signing resmi"
   ],
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.0.7/KYY_SCRIPT_PRO_4.0.7.apk",
-  "sha256": "aba85c399f9e5c1249b9e3095549ce064dac2c705a08a8e4d4459adb637912a4",
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.1.0/KYY_SCRIPT_PRO_4.1.0.apk",
+  "sha256": "8d540c78a29f3643482ef2143fce4c7d2f750558dc5b16dd562b7f9e3af83059",
   "minSupportedVersionCode": 200
 }
