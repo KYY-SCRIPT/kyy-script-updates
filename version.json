@@ -1,10 +1,10 @@
 {
   "title": "Pembaruan KYY SCRIPT PRO",
-  "version": "4.1.2",
-  "versionCode": 238,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.1.2/KYY-SCRIPT-PRO-v4.1.2.apk",
+  "version": "4.1.3",
+  "versionCode": 239,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.1.3/KYY-SCRIPT-PRO-v4.1.3.apk",
   "releaseNotes": [
-    "Pembaruan KYY SCRIPT PRO termasuk pilihan AWC DLC.RPF dan SOUND.AWC."
+    "Pembaruan KYY SCRIPT PRO GRAPHIC DAN CUACA"
   ],
-  "updatedAt": "2026-11-15T23:12:01.719618+00:00"
+  "updatedAt": "2026-11-15T23:14:52.751196+00:00"
 }
