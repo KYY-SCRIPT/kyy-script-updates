@@ -1,16 +1,17 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.1.4",
-  "version": "4.1.4",
-  "versionCode": 240,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.1.4/KYY_SCRIPT_PRO_4.1.4.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.2.0",
+  "version": "4.2.0",
+  "versionCode": 241,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.2.0/KYY_SCRIPT_PRO_4.2.0.apk",
   "releaseNotes": [
-    "Menghapus modul Building yang tidak berfungsi beserta model dan katalog asetnya",
-    "Mempertahankan konversi kendaraan dan AWC",
-    "Mempertahankan Graphic & Cuaca PS4",
-    "Mempertahankan RPF Extractor, RPF Builder, YTD Extractor dan OTD Builder",
-    "Mempertahankan package ID dan sertifikat signing resmi"
+    "Menambahkan Fitur",
+    "CAR MERGE PS4",
+    "Perbaikan Bug",
+    "Optimasi Graphic dan Cuaca"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "fd250c7d5e82019698b0de79cbba32f1cdd275a083a4f1c0da770f88f907cb50"
+  "sha256": "286ce8776e2dabe2f845a7ffb814857af5c0fcc89d97d49a0ffa2ef674032083",
+  "mandatory": false,
+  "minSupportedVersionCode": 200
 }
