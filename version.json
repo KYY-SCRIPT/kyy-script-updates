@@ -1,14 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.2.8",
-  "version": "4.2.8",
-  "versionCode": 249,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.2.8/KYY_SCRIPT_PRO_4.2.8.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.2.9",
+  "version": "4.2.9",
+  "versionCode": 250,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.2.9/KYY_SCRIPT_PRO_4.2.9.apk",
   "releaseNotes": [
-    "Perbaikan Bug Car Merge"
+    "Perbaikan CAR MERGER"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "efa60d2708e6610cc6b50b0e298443d00fe6ddb386003945efffb815ad1f80ef",
+  "sha256": "15f9be50680459827b2fa9eddce3e861cf0ac3e3c126e0f3cfbca92291b2b5ce",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
