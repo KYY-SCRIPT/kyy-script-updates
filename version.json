@@ -1,14 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.2.10",
-  "version": "4.2.10",
-  "versionCode": 251,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.2.10/KYY_SCRIPT_PRO_4.2.10.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.3.0",
+  "version": "4.3.0",
+  "versionCode": 252,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.3.0/KYY_SCRIPT_PRO_4.3.0.apk",
   "releaseNotes": [
-    "Perbaikan YTD extractor"
+    "Perbaikan YTD DAN OTD"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "c1a3c20ef8c930e6fef3f589a715378c4edb085d9a754182bd38f60cf5dd73a7",
+  "sha256": "7b99273613ac2e8dc83eb981eafe8902d1e186e548bd66db1dcb66f8e4d9a77b",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
