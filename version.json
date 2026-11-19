@@ -1,14 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.3.0",
-  "version": "4.3.0",
-  "versionCode": 252,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.3.0/KYY_SCRIPT_PRO_4.3.0.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.4.0",
+  "version": "4.4.0",
+  "versionCode": 253,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.4.0/KYY_SCRIPT_PRO_4.4.0.apk",
   "releaseNotes": [
-    "Perbaikan YTD DAN OTD"
+    "* Penambahan Fitur : /n -File Manager /n * Perbaikan Bug n/ * Perbaikan OTD dan YTD."
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "7b99273613ac2e8dc83eb981eafe8902d1e186e548bd66db1dcb66f8e4d9a77b",
+  "sha256": "ec46b4534c87583f6014d8df23739f105cf20f7e329275f3c92a75259ca95e70",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
