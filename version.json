@@ -1,14 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.4.3",
-  "version": "4.4.3",
-  "versionCode": 256,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.4.3/KYY_SCRIPT_PRO_4.4.3.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.4.4",
+  "version": "4.4.4",
+  "versionCode": 257,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.4.4/KYY_SCRIPT_PRO_4.4.4.apk",
   "releaseNotes": [
-    "perbaikan file manager"
+    "FIX FILE MANAGER"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "5739e68758086f5f8b361c7a485b681a49904f089f93c2e388d84e758c14b7fa",
+  "sha256": "d7bcb0dc85d91f344e48df2f4fdb69bca80b46234c67637064372b107e83aad6",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
