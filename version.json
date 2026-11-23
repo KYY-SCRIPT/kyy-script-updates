@@ -1,17 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.6.1",
-  "version": "4.6.1",
-  "versionCode": 265,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.6.1/KYY_SCRIPT_PRO_4.6.1.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.6.2",
+  "version": "4.6.2",
+  "versionCode": 266,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.6.2/KYY_SCRIPT_PRO_4.6.2.apk",
   "releaseNotes": [
-    "UPDATE: Unified Texture Converter",
-    "FITUR BARU: Texture Size Options",
-    "PERBAIKAN: YTD Extractor",
-    "UPDATE: OTD Builder Texture Settings"
+    "Fitur baru: DDS TO PNG - PNG TO DDS"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "553f7d94caa056fbef777b6820daf90cad811f29d9ea4bf6b8dea44db4b32f53",
+  "sha256": "7825215b560f71b8422578a16c9016b801267d827153783c1b841e81373714c9",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
