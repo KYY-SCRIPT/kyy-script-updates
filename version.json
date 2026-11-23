@@ -1,16 +1,17 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.5.3",
-  "version": "4.5.3",
-  "versionCode": 263,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.5.3/KYY_SCRIPT_PRO_4.5.3.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.6.0",
+  "version": "4.6.0",
+  "versionCode": 264,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.6.0/KYY_SCRIPT_PRO_4.6.0.apk",
   "releaseNotes": [
-    "Penghapusan Fitur Graphic & Cuaca",
-    "Menambahkan Fitur AWC MERGE",
-    "Perbaikan Bug"
+    "FITUR BARU: OTD Texture Size Options",
+    "FITUR BARU: DDS to PNG Exporter",
+    "UPDATE: Batch DDS Processing",
+    "UI: Texture Tools Improvements"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "6d6b8ecf006a80b43a0a1bd1d11dc0bcaf3c2122e7ce8e976cf077cff1e00aef",
+  "sha256": "31cc7d7ce341cdb14dcffc7cb87a36ceebf15694ef76a1e0cd8ef873efcd1118",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
