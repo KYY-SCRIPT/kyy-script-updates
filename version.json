@@ -1,14 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.5.0",
-  "version": "4.5.0",
-  "versionCode": 260,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.5.0/KYY_SCRIPT_PRO_4.5.0.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.5.1",
+  "version": "4.5.1",
+  "versionCode": 261,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.5.1/KYY_SCRIPT_PRO_4.5.1.apk",
   "releaseNotes": [
-    "FINAL FIX FINAL MANAGER"
+    "* Penghapusan Fitur Graphic Dan Cuaca yang tidak bekerja. * Penambahan Fitur Awc Merger"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "18875a9cd1dafe98c83dc451d440bad5e89d7892f1c1123d9b56f3c9724f4301",
+  "sha256": "402d3bfadecb34f2f587e52d961436ed7b062a8788175cab629519e69d299eec",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
