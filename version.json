@@ -1,15 +1,14 @@
 {
-  "title": "Pembaruan KYY SCRIPT PRO 4.6.3",
-  "version": "4.6.3",
-  "versionCode": 267,
-  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.6.3/KYY_SCRIPT_PRO_4.6.3.apk",
+  "title": "Pembaruan KYY SCRIPT PRO 4.6.4",
+  "version": "4.6.4",
+  "versionCode": 268,
+  "apkUrl": "https://github.com/KYY-SCRIPT/kyy-script-updates/releases/download/v4.6.4/KYY_SCRIPT_PRO_4.6.4.apk",
   "releaseNotes": [
-    "FITUR BARU : DDS TO PNG - PNG TO DDS",
-    "OPTIMASI & PERBAIKAN BUG"
+    "PERBAIKAN FITUR CONVERTER"
   ],
   "updatedAt": "2026-11-15T23:14:52.751196+00:00",
   "product": "KYY_SCRIPT_PRO",
-  "sha256": "6c3ca24ff1183b7c1388ae9fae87c69cdedd0f507568680f005b727090a372f4",
+  "sha256": "675f832bd689f2079b9077106e051524370d0dc18b14a9688344dc9893653014",
   "mandatory": false,
   "minSupportedVersionCode": 200
 }
